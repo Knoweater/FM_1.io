@@ -17,6 +17,7 @@ body {
     background-color: white;
     display: block;
     align-content: center;
+    box-shadow: 0 0.4rem 1rem rgba(175, 174, 174, 0.349) ;
 }
 
 .image {
